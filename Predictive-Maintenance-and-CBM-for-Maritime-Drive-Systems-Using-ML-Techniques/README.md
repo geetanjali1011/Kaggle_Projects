@@ -1,6 +1,6 @@
 # Predictive-Maintenance-and-CBM-for-Maritime-Drive-Systems-Using-ML-Techniques
 
-This repository contains a Kaggle project focused on predictive maintenance and condition-based monitoring (CBM) for maritime drive systems.
+This is a Kaggle project focused on predictive maintenance and condition-based monitoring (CBM) for maritime drive systems.
 
 Project Overview
 
